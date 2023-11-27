@@ -256,7 +256,7 @@ h3 img {
 
 .divGaleria {
     display: flex;
-    height: 90vh;
+    height: 85vh;
     width: 100vw;
     justify-content: center;
     align-items: center;
@@ -520,7 +520,7 @@ h3 img {
     }
     
     .GaleriaBarba {
-        margin-top: 10% !important;
+        margin-top: 2% !important;
     }
 
     .GaleriaBarba img {
