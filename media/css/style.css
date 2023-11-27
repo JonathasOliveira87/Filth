@@ -304,7 +304,7 @@ h3 img {
 }
 
 .imagemSelecionada {
-    transform: scale(1.8);
+    transform: scale(1.7);
 }
 
 .lightbox.active {
@@ -314,7 +314,7 @@ h3 img {
 
 .pagination {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 
 .pagination button {
